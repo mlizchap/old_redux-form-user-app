@@ -1,0 +1,27 @@
+.user {
+    background-color: #c4dff5;
+    border: 2px solid #614379;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+}
+
+h2 {
+    font-family: 'Luckiest Guy', cursive;  
+    letter-spacing: .1rem;
+    color: #614379;
+    margin: 5px;
+}
+.user p {
+    text-align: left;
+    margin: 1px;
+    color: #562d75
+}
+
+.email {
+    text-align: center;
+}
